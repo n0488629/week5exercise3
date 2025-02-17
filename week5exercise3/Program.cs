@@ -36,6 +36,7 @@ namespace week5exercise3
                     case 4:
                         return;
                     default:
+                        Console.WriteLine("Please enter a valid input");
                         break;
 
 
